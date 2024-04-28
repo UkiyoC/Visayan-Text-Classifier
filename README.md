@@ -4,7 +4,7 @@ Guide to setting up the Visayan Text Classifier.
 
 ## Installation
 
-Open the terminal in VSCode and clone this repository `<repository clone>`
+Open the terminal in VSCode and clone this repository `https://github.com/UkiyoC/Visayan-Text-Classifier.git`
 
 ## Create a Virtual Environment
 
