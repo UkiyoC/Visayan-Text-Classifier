@@ -1,0 +1,6 @@
+regex
+numpy
+tensorflow
+transformers
+customtkinter
+pillow
